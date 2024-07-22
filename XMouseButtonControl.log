@@ -1,0 +1,1238 @@
+
+*******************************************************************************************************************************************
+22-01-3918 11:39:30.649> X-Mouse Button Control v2.17 (x64) Startup. Commandline ''
+22-01-3918 11:39:30.669> Running in high integrity mode (0x00003000)
+22-01-3918 11:39:30.669> Unable to find the default settings file 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml' (Error code 2: The system cannot find the file specified. )
+22-01-3918 11:39:30.669> HookDLL: Unable to load XML settings
+22-01-3918 11:39:30.669> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 1000 ms
+22-01-3918 11:39:30.669> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml'
+22-01-3918 11:39:30.669> Enabling portable mode.
+22-01-3918 11:39:30.669> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml'
+22-01-3918 11:39:30.669> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 11:39:30.671> Using keyboard language 0x04090409
+22-01-3918 11:39:31.583> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+22-01-3918 11:39:31.584> Received 2048 bytes on the IPC named pipe.
+22-01-3918 11:39:31.584> Received message with data 0x80000004 from another instance of X-Mouse Button Control.
+22-01-3918 11:39:31.584> MultInstance: Successfully finished communicating with the first instance of X-Mouse Button Control.
+
+22-01-3918 11:39:31.594> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 11:39:31.602> Unable to find the default settings file 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml' (Error code 2: The system cannot find the file specified. )
+22-01-3918 11:39:31.602> SetupDialog: Settings file 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml' does not exist!
+22-01-3918 11:39:31.925> GetLayerName: Layer 0 does not exist or has no name!
+22-01-3918 11:39:31.925> GetLayerName: Layer 0 does not exist or has no name!
+22-01-3918 11:39:31.925> GetLayerName: Layer 0 does not exist or has no name!
+22-01-3918 11:39:31.925> GetLayerName: Layer 0 does not exist or has no name!
+22-01-3918 11:39:31.930> GetLayerName: Layer 1 does not exist or has no name!
+22-01-3918 11:39:31.930> GetLayerName: Layer 1 does not exist or has no name!
+22-01-3918 11:39:31.930> GetLayerName: Layer 1 does not exist or has no name!
+22-01-3918 11:39:31.930> GetLayerName: Layer 1 does not exist or has no name!
+22-01-3918 11:39:31.934> GetLayerName: Layer 2 does not exist or has no name!
+22-01-3918 11:39:31.934> GetLayerName: Layer 2 does not exist or has no name!
+22-01-3918 11:39:31.934> GetLayerName: Layer 2 does not exist or has no name!
+22-01-3918 11:39:31.935> GetLayerName: Layer 2 does not exist or has no name!
+22-01-3918 11:39:31.938> GetLayerName: Layer 3 does not exist or has no name!
+22-01-3918 11:39:31.938> GetLayerName: Layer 3 does not exist or has no name!
+22-01-3918 11:39:31.939> GetLayerName: Layer 3 does not exist or has no name!
+22-01-3918 11:39:31.939> GetLayerName: Layer 3 does not exist or has no name!
+22-01-3918 11:39:31.942> GetLayerName: Layer 4 does not exist or has no name!
+22-01-3918 11:39:31.942> GetLayerName: Layer 4 does not exist or has no name!
+22-01-3918 11:39:31.943> GetLayerName: Layer 4 does not exist or has no name!
+22-01-3918 11:39:31.943> GetLayerName: Layer 4 does not exist or has no name!
+22-01-3918 11:39:31.947> GetLayerName: Layer 5 does not exist or has no name!
+22-01-3918 11:39:31.947> GetLayerName: Layer 5 does not exist or has no name!
+22-01-3918 11:39:31.947> GetLayerName: Layer 5 does not exist or has no name!
+22-01-3918 11:39:31.947> GetLayerName: Layer 5 does not exist or has no name!
+22-01-3918 11:39:31.951> GetLayerName: Layer 6 does not exist or has no name!
+22-01-3918 11:39:31.952> GetLayerName: Layer 6 does not exist or has no name!
+22-01-3918 11:39:31.952> GetLayerName: Layer 6 does not exist or has no name!
+22-01-3918 11:39:31.952> GetLayerName: Layer 6 does not exist or has no name!
+22-01-3918 11:39:31.956> GetLayerName: Layer 7 does not exist or has no name!
+22-01-3918 11:39:31.956> GetLayerName: Layer 7 does not exist or has no name!
+22-01-3918 11:39:31.956> GetLayerName: Layer 7 does not exist or has no name!
+22-01-3918 11:39:31.956> GetLayerName: Layer 7 does not exist or has no name!
+22-01-3918 11:39:31.959> GetLayerName: Layer 8 does not exist or has no name!
+22-01-3918 11:39:31.960> GetLayerName: Layer 8 does not exist or has no name!
+22-01-3918 11:39:31.960> GetLayerName: Layer 8 does not exist or has no name!
+22-01-3918 11:39:31.960> GetLayerName: Layer 8 does not exist or has no name!
+22-01-3918 11:39:31.964> GetLayerName: Layer 9 does not exist or has no name!
+22-01-3918 11:39:31.964> GetLayerName: Layer 9 does not exist or has no name!
+22-01-3918 11:39:31.964> GetLayerName: Layer 9 does not exist or has no name!
+22-01-3918 11:39:31.965> GetLayerName: Layer 9 does not exist or has no name!
+22-01-3918 11:39:47.996> Applying changes to X-Mouse Button Control settings...
+22-01-3918 11:39:47.997> Unable to find the default settings file 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml' (Error code 2: The system cannot find the file specified. )
+22-01-3918 11:39:47.997> SetupDialog: Settings file 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml' does not exist!
+22-01-3918 11:39:47.997> Updating Windows hook timeout: 200
+22-01-3918 11:39:47.997> There is no existing settings file. Attempting to creating a new one.
+22-01-3918 11:39:48.001> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:39:48.027> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 11:39:48.035> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:39:50.633> Exit requested by the user.
+22-01-3918 11:39:50.635> Removing any active XMBCHook Timers...
+22-01-3918 11:39:50.636> Timer thread exited with error code 0.
+22-01-3918 11:39:50.651> CSendInput: Exiting SendInput thread.
+22-01-3918 11:39:50.651> HookThread: Finished cleaning up.
+22-01-3918 11:39:50.651> Hook thread exited with error code 0.
+22-01-3918 11:39:50.651> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 11:40:07.808> X-Mouse Button Control v2.17 (x64) Startup. Commandline ''
+22-01-3918 11:40:07.826> Running in high integrity mode (0x00003000)
+22-01-3918 11:40:07.826> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:40:07.826> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 11:40:07.827> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 11:40:07.827> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 11:40:07.827> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml'
+22-01-3918 11:40:07.827> Enabling portable mode.
+22-01-3918 11:40:07.827> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml'
+22-01-3918 11:40:07.827> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 11:40:07.829> Using keyboard language 0x04090409
+22-01-3918 11:40:10.871> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 11:40:10.883> Loaded 0 application specific profiles (0 normal and 0 custom window).
+
+*******************************************************************************************************************************************
+22-01-3918 11:40:30.471> X-Mouse Button Control v2.17 (x64) Startup. Commandline ''
+22-01-3918 11:40:30.500> Running in high integrity mode (0x00003000)
+22-01-3918 11:40:30.500> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:40:30.500> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 11:40:30.500> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 11:40:30.501> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 11:40:30.501> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml'
+22-01-3918 11:40:30.501> Enabling portable mode.
+22-01-3918 11:40:30.501> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml'
+22-01-3918 11:40:30.501> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 11:40:30.502> Using keyboard language 0x04090409
+22-01-3918 11:40:57.631> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 11:40:57.643> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:41:17.523> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 11:41:17.535> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:41:22.556> You are using the latest available version of X-Mouse Button Control.
+
+*******************************************************************************************************************************************
+22-01-3918 11:42:40.986> X-Mouse Button Control v2.17 (x64) Startup. Commandline ''
+22-01-3918 11:42:41.013> Running in high integrity mode (0x00003000)
+22-01-3918 11:42:41.015> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:42:41.015> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 11:42:41.015> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 11:42:41.015> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 11:42:41.015> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml'
+22-01-3918 11:42:41.015> Enabling portable mode.
+22-01-3918 11:42:41.015> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml'
+22-01-3918 11:42:41.015> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 11:42:41.019> Using keyboard language 0x04090409
+22-01-3918 11:42:43.303> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 11:42:43.316> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:43:33.827> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 11:43:33.835> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:43:36.529> Exit requested by the user.
+22-01-3918 11:43:36.532> Removing any active XMBCHook Timers...
+22-01-3918 11:43:36.532> Timer thread exited with error code 0.
+22-01-3918 11:43:36.550> CSendInput: Exiting SendInput thread.
+22-01-3918 11:43:36.550> HookThread: Finished cleaning up.
+22-01-3918 11:43:36.551> Hook thread exited with error code 0.
+22-01-3918 11:43:36.551> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 11:44:18.804> X-Mouse Button Control v2.17 (x64) Startup. Commandline ''
+22-01-3918 11:44:18.843> Running in high integrity mode (0x00003000)
+22-01-3918 11:44:18.845> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:44:18.845> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 11:44:18.845> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 11:44:18.845> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 11:44:18.845> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml'
+22-01-3918 11:44:18.845> Enabling portable mode.
+22-01-3918 11:44:18.845> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml'
+22-01-3918 11:44:18.845> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 11:44:18.850> Using keyboard language 0x04090409
+22-01-3918 11:44:19.763> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+22-01-3918 11:44:19.763> MultInstance: Successfully finished communicating with the first instance of X-Mouse Button Control.
+22-01-3918 11:44:19.763> Received 2048 bytes on the IPC named pipe.
+22-01-3918 11:44:19.763> Received message with data 0x80000004 from another instance of X-Mouse Button Control.
+
+22-01-3918 11:44:19.768> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 11:44:19.775> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:44:30.230> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 11:44:30.238> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:44:32.313> Exit requested by the user.
+22-01-3918 11:44:32.315> Removing any active XMBCHook Timers...
+22-01-3918 11:44:32.316> Timer thread exited with error code 0.
+22-01-3918 11:44:32.331> CSendInput: Exiting SendInput thread.
+22-01-3918 11:44:32.332> HookThread: Finished cleaning up.
+22-01-3918 11:44:32.332> Hook thread exited with error code 0.
+22-01-3918 11:44:32.332> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 11:46:31.322> 5555555555555555555555 v2.17 (x64) Startup. Commandline ''
+22-01-3918 11:46:31.372> Running in high integrity mode (0x00003000)
+22-01-3918 11:46:31.373> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:46:31.373> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 11:46:31.373> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 11:46:31.373> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 11:46:31.373> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml'
+22-01-3918 11:46:31.373> Enabling portable mode.
+22-01-3918 11:46:31.373> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\X-Mouse Button Control\XMBCSettings.xml'
+22-01-3918 11:46:31.374> As 5555555555555555555555 is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 11:46:31.377> Using keyboard language 0x04090409
+22-01-3918 11:46:34.207> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 11:46:34.220> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:47:10.479> Applying changes to 5555555555555555555555 settings...
+22-01-3918 11:47:10.485> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:48:24.162> Applying changes to 5555555555555555555555 settings...
+22-01-3918 11:48:24.168> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:48:31.418> You are using the latest available version of 5555555555555555555555.
+22-01-3918 11:48:35.177> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 11:48:35.183> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:48:37.071> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 11:48:37.082> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:48:40.193> You are using the latest available version of 5555555555555555555555.
+
+*******************************************************************************************************************************************
+22-01-3918 11:49:51.737> 5555555555555555555555 v2.17 (x64) Startup. Commandline ''
+22-01-3918 11:49:51.756> Running in high integrity mode (0x00003000)
+22-01-3918 11:49:51.757> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:49:51.757> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 11:49:51.757> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 11:49:51.757> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 11:49:51.757> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 11:49:51.757> Enabling portable mode.
+22-01-3918 11:49:51.758> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 11:49:51.758> As 5555555555555555555555 is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 11:49:51.759> Using keyboard language 0x04090409
+22-01-3918 11:49:53.182> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 11:49:53.195> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:50:53.059> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 11:50:53.076> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:50:54.591> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 11:50:54.596> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:50:58.099> You are using the latest available version of 5555555555555555555555.
+22-01-3918 11:51:44.404> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 11:51:44.415> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:51:46.633> Exit requested by the user.
+22-01-3918 11:51:46.636> Removing any active XMBCHook Timers...
+22-01-3918 11:51:46.636> Timer thread exited with error code 0.
+22-01-3918 11:51:46.651> CSendInput: Exiting SendInput thread.
+22-01-3918 11:51:46.652> HookThread: Finished cleaning up.
+22-01-3918 11:51:46.652> Hook thread exited with error code 0.
+22-01-3918 11:51:46.652> 5555555555555555555555 Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 11:52:33.652> 5555555555555555555555 v2.17 (x64) Startup. Commandline ''
+22-01-3918 11:52:33.690> Running in high integrity mode (0x00003000)
+22-01-3918 11:52:33.691> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:52:33.691> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 11:52:33.691> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 11:52:33.691> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 11:52:33.691> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 11:52:33.691> Enabling portable mode.
+22-01-3918 11:52:33.691> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 11:52:33.691> As 5555555555555555555555 is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 11:52:33.693> Using keyboard language 0x04090409
+22-01-3918 11:52:35.726> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 11:52:35.739> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:52:56.780> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 11:52:56.788> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:52:58.944> Exit requested by the user.
+22-01-3918 11:52:58.949> Removing any active XMBCHook Timers...
+22-01-3918 11:52:58.949> Timer thread exited with error code 0.
+22-01-3918 11:52:58.964> CSendInput: Exiting SendInput thread.
+22-01-3918 11:52:58.965> HookThread: Finished cleaning up.
+22-01-3918 11:52:58.965> Hook thread exited with error code 0.
+22-01-3918 11:52:58.965> 5555555555555555555555 Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 11:57:39.013> 5555555555555555555555 v2.17 (x64) Startup. Commandline ''
+22-01-3918 11:57:39.032> Running in high integrity mode (0x00003000)
+22-01-3918 11:57:39.033> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:57:39.033> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 11:57:39.033> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 11:57:39.033> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 11:57:39.033> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 11:57:39.033> Enabling portable mode.
+22-01-3918 11:57:39.033> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 11:57:39.033> As 5555555555555555555555 is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 11:57:39.035> Using keyboard language 0x04090409
+22-01-3918 11:57:42.925> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 11:57:42.938> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:58:47.483> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 11:58:47.491> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 11:58:50.800> Exit requested by the user.
+22-01-3918 11:58:50.804> Removing any active XMBCHook Timers...
+22-01-3918 11:58:50.804> Timer thread exited with error code 0.
+22-01-3918 11:58:50.820> CSendInput: Exiting SendInput thread.
+22-01-3918 11:58:50.820> HookThread: Finished cleaning up.
+22-01-3918 11:58:50.821> Hook thread exited with error code 0.
+22-01-3918 11:58:50.821> 5555555555555555555555 Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 12:07:03.124> 5555555555555555555555 v2.17 (x64) Startup. Commandline ''
+22-01-3918 12:07:03.197> Running in high integrity mode (0x00003000)
+22-01-3918 12:07:03.221> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 12:07:03.222> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 12:07:03.222> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 12:07:03.222> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 12:07:03.222> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 12:07:03.222> Enabling portable mode.
+22-01-3918 12:07:03.222> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 12:07:03.222> As 5555555555555555555555 is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 12:07:03.225> Using keyboard language 0x04090409
+22-01-3918 12:07:04.509> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 12:07:04.523> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 12:08:12.259> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 12:08:12.267> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 12:08:17.317> You are using the latest available version of 5555555555555555555555.
+22-01-3918 12:16:58.631> Exit requested by the user.
+22-01-3918 12:16:58.632> Removing any active XMBCHook Timers...
+22-01-3918 12:16:58.633> Timer thread exited with error code 0.
+22-01-3918 12:16:58.698> CSendInput: Exiting SendInput thread.
+22-01-3918 12:16:58.698> HookThread: Finished cleaning up.
+22-01-3918 12:16:58.698> Hook thread exited with error code 0.
+22-01-3918 12:16:58.698> RemoveMouseHook took 62ms
+22-01-3918 12:16:58.698> 5555555555555555555555 Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 12:19:43.229> 5555555555555555555555 v2.17 (x64) Startup. Commandline ''
+22-01-3918 12:19:43.278> Running in high integrity mode (0x00003000)
+22-01-3918 12:19:43.280> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 12:19:43.280> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 12:19:43.280> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 12:19:43.280> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 12:19:43.280> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 12:19:43.281> Enabling portable mode.
+22-01-3918 12:19:43.281> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 12:19:43.281> As 5555555555555555555555 is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 12:19:43.285> Using keyboard language 0x04090409
+22-01-3918 12:19:48.246> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 12:19:48.260> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 12:20:07.844> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 12:20:07.850> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 12:20:10.392> Exit requested by the user.
+22-01-3918 12:20:10.396> Removing any active XMBCHook Timers...
+22-01-3918 12:20:10.396> Timer thread exited with error code 0.
+22-01-3918 12:20:10.410> CSendInput: Exiting SendInput thread.
+22-01-3918 12:20:10.411> HookThread: Finished cleaning up.
+22-01-3918 12:20:10.411> Hook thread exited with error code 0.
+22-01-3918 12:20:10.411> 5555555555555555555555 Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:22:55.405> 5555555555555555555555 v2.17 (x64) Startup. Commandline ''
+22-01-3918 17:22:55.425> Running in high integrity mode (0x00003000)
+22-01-3918 17:22:55.426> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:22:55.426> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:22:55.426> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:22:55.426> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:22:55.426> Startup folder: 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:22:55.426> Enabling portable mode.
+22-01-3918 17:22:55.426> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:22:55.426> As 5555555555555555555555 is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:22:55.448> Using keyboard language 0x04090409
+22-01-3918 17:22:57.616> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:22:57.625> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:23:53.530> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:23:53.539> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:23:58.558> You are using the latest available version of 5555555555555555555555.
+22-01-3918 17:24:30.728> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:24:30.747> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:25:43.436> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:25:43.445> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:25:48.471> You are using the latest available version of 5555555555555555555555.
+22-01-3918 17:25:51.673> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:25:51.691> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:25:55.858> Exit requested by the user.
+22-01-3918 17:25:55.907> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:25:55.909> Removing any active XMBCHook Timers...
+22-01-3918 17:25:55.910> Timer thread exited with error code 0.
+22-01-3918 17:25:55.919> CSendInput: Exiting SendInput thread.
+22-01-3918 17:25:55.920> HookThread: Finished cleaning up.
+22-01-3918 17:25:55.920> Hook thread exited with error code 0.
+22-01-3918 17:25:55.929> 5555555555555555555555 Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:26:31.822> 5555555555555555555555 v2.17 (x64) Startup. Commandline ''
+22-01-3918 17:26:31.855> Running in high integrity mode (0x00003000)
+22-01-3918 17:26:31.856> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:26:31.856> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:26:31.856> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:26:31.856> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:26:31.857> Startup folder: 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:26:31.857> Enabling portable mode.
+22-01-3918 17:26:31.857> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:26:31.857> As 5555555555555555555555 is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:26:31.860> Using keyboard language 0x04090409
+22-01-3918 17:26:34.433> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:26:34.454> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:26:36.584> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:26:36.593> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:26:41.615> You are using the latest available version of 5555555555555555555555.
+22-01-3918 17:26:58.083> Exit requested by the user.
+22-01-3918 17:26:58.093> Removing any active XMBCHook Timers...
+22-01-3918 17:26:58.093> Timer thread exited with error code 0.
+22-01-3918 17:26:58.117> CSendInput: Exiting SendInput thread.
+22-01-3918 17:26:58.118> HookThread: Finished cleaning up.
+22-01-3918 17:26:58.119> Hook thread exited with error code 0.
+22-01-3918 17:26:58.119> RemoveMouseHook took 31ms
+22-01-3918 17:26:58.119> 5555555555555555555555 Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:27:14.396> s555555555555555555555 v2.17 (x64) Startup. Commandline ''
+22-01-3918 17:27:14.422> Running in high integrity mode (0x00003000)
+22-01-3918 17:27:14.423> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:27:14.423> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:27:14.423> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:27:14.424> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:27:14.424> Startup folder: 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:27:14.424> Enabling portable mode.
+22-01-3918 17:27:14.424> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:27:14.424> As s555555555555555555555 is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:27:14.427> Using keyboard language 0x04090409
+22-01-3918 17:27:16.481> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:27:16.502> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:27:53.902> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:27:53.912> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:27:56.730> Exit requested by the user.
+22-01-3918 17:27:56.738> Removing any active XMBCHook Timers...
+22-01-3918 17:27:56.738> Timer thread exited with error code 0.
+22-01-3918 17:27:56.761> CSendInput: Exiting SendInput thread.
+22-01-3918 17:27:56.762> HookThread: Finished cleaning up.
+22-01-3918 17:27:56.762> Hook thread exited with error code 0.
+22-01-3918 17:27:56.762> s555555555555555555555 Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:28:08.382> ss55555555555555555555 v2.17 (x64) Startup. Commandline ''
+22-01-3918 17:28:08.405> Running in high integrity mode (0x00003000)
+22-01-3918 17:28:08.405> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:28:08.406> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:28:08.406> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:28:08.406> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:28:08.406> Startup folder: 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:28:08.406> Enabling portable mode.
+22-01-3918 17:28:08.406> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:28:08.406> As ss55555555555555555555 is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:28:08.409> Using keyboard language 0x04090409
+22-01-3918 17:28:10.953> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:28:10.974> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:28:13.813> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:28:13.821> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:28:17.026> Exit requested by the user.
+22-01-3918 17:28:17.052> Removing any active XMBCHook Timers...
+22-01-3918 17:28:17.052> Timer thread exited with error code 0.
+22-01-3918 17:28:17.063> CSendInput: Exiting SendInput thread.
+22-01-3918 17:28:17.064> HookThread: Finished cleaning up.
+22-01-3918 17:28:17.064> Hook thread exited with error code 0.
+22-01-3918 17:28:17.065> ss55555555555555555555 Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:28:41.892> ss55555555555555555555 v8.88 (x64) Startup. Commandline ''
+22-01-3918 17:28:41.914> Running in high integrity mode (0x00003000)
+22-01-3918 17:28:41.915> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:28:41.915> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:28:41.915> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:28:41.915> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:28:41.915> Startup folder: 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:28:41.915> Enabling portable mode.
+22-01-3918 17:28:41.915> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:28:41.915> As ss55555555555555555555 is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:28:41.918> Using keyboard language 0x04090409
+22-01-3918 17:28:45.057> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:28:45.079> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:28:49.939> Exit requested by the user.
+22-01-3918 17:28:49.974> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:28:49.977> Removing any active XMBCHook Timers...
+22-01-3918 17:28:49.977> Timer thread exited with error code 0.
+22-01-3918 17:28:49.988> CSendInput: Exiting SendInput thread.
+22-01-3918 17:28:49.988> HookThread: Finished cleaning up.
+22-01-3918 17:28:49.988> Hook thread exited with error code 0.
+22-01-3918 17:28:49.995> ss55555555555555555555 Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:29:18.158> ss55555555555555555555 v (x64) Startup. Commandline ''
+22-01-3918 17:29:18.181> Running in high integrity mode (0x00003000)
+22-01-3918 17:29:18.182> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:29:18.182> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:29:18.182> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:29:18.182> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:29:18.182> Startup folder: 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:29:18.183> Enabling portable mode.
+22-01-3918 17:29:18.183> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:29:18.183> As ss55555555555555555555 is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:29:18.185> Using keyboard language 0x04090409
+22-01-3918 17:29:21.073> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:29:21.093> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:29:27.524> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:29:27.532> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:29:29.467> Exit requested by the user.
+22-01-3918 17:29:29.476> Removing any active XMBCHook Timers...
+22-01-3918 17:29:29.477> Timer thread exited with error code 0.
+22-01-3918 17:29:29.498> CSendInput: Exiting SendInput thread.
+22-01-3918 17:29:29.499> HookThread: Finished cleaning up.
+22-01-3918 17:29:29.499> Hook thread exited with error code 0.
+22-01-3918 17:29:29.499> RemoveMouseHook took 32ms
+22-01-3918 17:29:29.499> ss55555555555555555555 Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:30:38.345> Ue%EUeU v (x64) Startup. Commandline ''
+22-01-3918 17:30:38.372> Running in high integrity mode (0x00003000)
+22-01-3918 17:30:38.373> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:30:38.373> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:30:38.373> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:30:38.373> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:30:38.373> Startup folder: 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:30:38.373> Enabling portable mode.
+22-01-3918 17:30:38.374> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:30:38.374> As Ue%EUeU is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:30:38.377> Using keyboard language 0x04090409
+22-01-3918 17:30:39.889> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:30:39.911> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:30:50.591> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:30:50.599> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:30:53.674> Exit requested by the user.
+22-01-3918 17:30:53.683> Removing any active XMBCHook Timers...
+22-01-3918 17:30:53.684> Timer thread exited with error code 0.
+22-01-3918 17:30:53.706> CSendInput: Exiting SendInput thread.
+22-01-3918 17:30:53.707> HookThread: Finished cleaning up.
+22-01-3918 17:30:53.707> Hook thread exited with error code 0.
+22-01-3918 17:30:53.707> RemoveMouseHook took 31ms
+22-01-3918 17:30:53.707> Ue%EUeU Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:32:05.880> Ue%EUeU v (x64) Startup. Commandline ''
+22-01-3918 17:32:05.914> Running in high integrity mode (0x00003000)
+22-01-3918 17:32:05.915> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:32:05.915> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:32:05.915> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:32:05.915> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:32:05.916> Startup folder: 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:32:05.916> Enabling portable mode.
+22-01-3918 17:32:05.916> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:32:05.916> As Ue%EUeU is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:32:05.922> Using keyboard language 0x04090409
+22-01-3918 17:32:07.529> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:32:07.550> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:32:52.003> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:32:52.012> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:32:55.035> Exit requested by the user.
+22-01-3918 17:32:55.046> Removing any active XMBCHook Timers...
+22-01-3918 17:32:55.046> Timer thread exited with error code 0.
+22-01-3918 17:32:55.061> CSendInput: Exiting SendInput thread.
+22-01-3918 17:32:55.062> HookThread: Finished cleaning up.
+22-01-3918 17:32:55.062> Hook thread exited with error code 0.
+22-01-3918 17:32:55.062> Ue%EUeU Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:32:55.814> Ue%EUeU v (x64) Startup. Commandline ''
+22-01-3918 17:32:55.841> Running in high integrity mode (0x00003000)
+22-01-3918 17:32:55.842> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:32:55.842> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:32:55.842> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:32:55.842> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:32:55.842> Startup folder: 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:32:55.842> Enabling portable mode.
+22-01-3918 17:32:55.842> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:32:55.842> As Ue%EUeU is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:32:55.845> Using keyboard language 0x04090409
+22-01-3918 17:32:58.315> Exit requested by the user.
+22-01-3918 17:32:58.323> Removing any active XMBCHook Timers...
+22-01-3918 17:32:58.324> Timer thread exited with error code 0.
+22-01-3918 17:32:58.346> CSendInput: Exiting SendInput thread.
+22-01-3918 17:32:58.346> HookThread: Finished cleaning up.
+22-01-3918 17:32:58.347> Hook thread exited with error code 0.
+22-01-3918 17:32:58.347> Ue%EUeU Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:33:31.388> ?????Ue%EUeU v (x64) Startup. Commandline ''
+22-01-3918 17:33:31.432> Running in high integrity mode (0x00003000)
+22-01-3918 17:33:31.433> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:33:31.433> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:33:31.434> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:33:31.434> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:33:31.434> Startup folder: 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:33:31.434> Enabling portable mode.
+22-01-3918 17:33:31.434> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:33:31.434> As ?????Ue%EUeU is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:33:31.437> Using keyboard language 0x04090409
+22-01-3918 17:33:32.304> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:33:32.329> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:33:35.619> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:33:35.627> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:33:40.653> You are using the latest available version of ?????Ue%EUeU.
+22-01-3918 17:33:42.499> Exit requested by the user.
+22-01-3918 17:33:42.523> Removing any active XMBCHook Timers...
+22-01-3918 17:33:42.523> Timer thread exited with error code 0.
+22-01-3918 17:33:42.534> CSendInput: Exiting SendInput thread.
+22-01-3918 17:33:42.535> HookThread: Finished cleaning up.
+22-01-3918 17:33:42.535> Hook thread exited with error code 0.
+22-01-3918 17:33:42.535> ?????Ue%EUeU Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:34:28.811> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 17:34:28.833> Running in high integrity mode (0x00003000)
+22-01-3918 17:34:28.834> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:34:28.834> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:34:28.834> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:34:28.834> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:34:28.834> Startup folder: 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:34:28.834> Enabling portable mode.
+22-01-3918 17:34:28.835> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:34:28.835> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:34:28.837> Using keyboard language 0x04090409
+22-01-3918 17:34:31.289> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:34:31.307> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:34:58.688> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:34:58.696> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:35:01.603> Exit requested by the user.
+22-01-3918 17:35:01.613> Removing any active XMBCHook Timers...
+22-01-3918 17:35:01.613> Timer thread exited with error code 0.
+22-01-3918 17:35:01.631> CSendInput: Exiting SendInput thread.
+22-01-3918 17:35:01.632> HookThread: Finished cleaning up.
+22-01-3918 17:35:01.632> Hook thread exited with error code 0.
+22-01-3918 17:35:01.632> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:39:13.571> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 17:39:13.601> Running in high integrity mode (0x00003000)
+22-01-3918 17:39:13.602> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:39:13.602> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:39:13.602> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:39:13.603> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:39:13.603> Startup folder: 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:39:13.603> Enabling portable mode.
+22-01-3918 17:39:13.603> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917O\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:39:13.603> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:39:13.606> Using keyboard language 0x04090409
+22-01-3918 17:39:15.169> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:39:15.177> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:39:23.802> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:39:23.811> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:39:25.595> Exit requested by the user.
+22-01-3918 17:39:25.623> Removing any active XMBCHook Timers...
+22-01-3918 17:39:25.624> Timer thread exited with error code 0.
+22-01-3918 17:39:25.635> CSendInput: Exiting SendInput thread.
+22-01-3918 17:39:25.635> HookThread: Finished cleaning up.
+22-01-3918 17:39:25.636> Hook thread exited with error code 0.
+22-01-3918 17:39:25.636> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:53:42.382> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 17:53:42.406> Running in high integrity mode (0x00003000)
+22-01-3918 17:53:42.407> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:53:42.407> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:53:42.407> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+22-01-3918 17:53:42.407> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:53:42.407> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:53:42.407> Enabling portable mode.
+22-01-3918 17:53:42.407> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:53:42.407> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:53:42.423> Using keyboard language 0x04090409
+22-01-3918 17:53:44.069> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:53:44.087> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:54:05.854> Adding new application specific settings for 'chrome.exe'.
+22-01-3918 17:54:05.861> GetLayerName: Layer 0 does not exist or has no name!
+22-01-3918 17:54:05.861> GetLayerName: Layer 0 does not exist or has no name!
+22-01-3918 17:54:05.861> GetLayerName: Layer 0 does not exist or has no name!
+22-01-3918 17:54:05.861> GetLayerName: Layer 0 does not exist or has no name!
+22-01-3918 17:54:05.863> GetLayerName: Layer 1 does not exist or has no name!
+22-01-3918 17:54:05.863> GetLayerName: Layer 1 does not exist or has no name!
+22-01-3918 17:54:05.863> GetLayerName: Layer 1 does not exist or has no name!
+22-01-3918 17:54:05.863> GetLayerName: Layer 1 does not exist or has no name!
+22-01-3918 17:54:05.865> GetLayerName: Layer 2 does not exist or has no name!
+22-01-3918 17:54:05.865> GetLayerName: Layer 2 does not exist or has no name!
+22-01-3918 17:54:05.866> GetLayerName: Layer 2 does not exist or has no name!
+22-01-3918 17:54:05.866> GetLayerName: Layer 2 does not exist or has no name!
+22-01-3918 17:54:05.868> GetLayerName: Layer 3 does not exist or has no name!
+22-01-3918 17:54:05.868> GetLayerName: Layer 3 does not exist or has no name!
+22-01-3918 17:54:05.868> GetLayerName: Layer 3 does not exist or has no name!
+22-01-3918 17:54:05.868> GetLayerName: Layer 3 does not exist or has no name!
+22-01-3918 17:54:05.870> GetLayerName: Layer 4 does not exist or has no name!
+22-01-3918 17:54:05.870> GetLayerName: Layer 4 does not exist or has no name!
+22-01-3918 17:54:05.870> GetLayerName: Layer 4 does not exist or has no name!
+22-01-3918 17:54:05.870> GetLayerName: Layer 4 does not exist or has no name!
+22-01-3918 17:54:05.873> GetLayerName: Layer 5 does not exist or has no name!
+22-01-3918 17:54:05.873> GetLayerName: Layer 5 does not exist or has no name!
+22-01-3918 17:54:05.873> GetLayerName: Layer 5 does not exist or has no name!
+22-01-3918 17:54:05.873> GetLayerName: Layer 5 does not exist or has no name!
+22-01-3918 17:54:05.875> GetLayerName: Layer 6 does not exist or has no name!
+22-01-3918 17:54:05.875> GetLayerName: Layer 6 does not exist or has no name!
+22-01-3918 17:54:05.875> GetLayerName: Layer 6 does not exist or has no name!
+22-01-3918 17:54:05.875> GetLayerName: Layer 6 does not exist or has no name!
+22-01-3918 17:54:05.877> GetLayerName: Layer 7 does not exist or has no name!
+22-01-3918 17:54:05.877> GetLayerName: Layer 7 does not exist or has no name!
+22-01-3918 17:54:05.877> GetLayerName: Layer 7 does not exist or has no name!
+22-01-3918 17:54:05.877> GetLayerName: Layer 7 does not exist or has no name!
+22-01-3918 17:54:05.879> GetLayerName: Layer 8 does not exist or has no name!
+22-01-3918 17:54:05.879> GetLayerName: Layer 8 does not exist or has no name!
+22-01-3918 17:54:05.880> GetLayerName: Layer 8 does not exist or has no name!
+22-01-3918 17:54:05.880> GetLayerName: Layer 8 does not exist or has no name!
+22-01-3918 17:54:05.882> GetLayerName: Layer 9 does not exist or has no name!
+22-01-3918 17:54:05.882> GetLayerName: Layer 9 does not exist or has no name!
+22-01-3918 17:54:05.882> GetLayerName: Layer 9 does not exist or has no name!
+22-01-3918 17:54:05.882> GetLayerName: Layer 9 does not exist or has no name!
+22-01-3918 17:54:09.855> Remove profile settings for 'chrome.exe'.
+22-01-3918 17:54:15.282> Applying changes to ?????????????????????? settings...
+22-01-3918 17:54:15.284> Updating Windows hook timeout: 200
+22-01-3918 17:54:15.289> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:54:15.317> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:54:15.324> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:54:17.672> Exit requested by the user.
+22-01-3918 17:54:17.686> Removing any active XMBCHook Timers...
+22-01-3918 17:54:17.686> Timer thread exited with error code 0.
+22-01-3918 17:54:17.700> CSendInput: Exiting SendInput thread.
+22-01-3918 17:54:17.701> HookThread: Finished cleaning up.
+22-01-3918 17:54:17.701> Hook thread exited with error code 0.
+22-01-3918 17:54:17.701> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:55:03.707> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 17:55:03.736> Running in high integrity mode (0x00003000)
+22-01-3918 17:55:03.737> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:55:03.737> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:55:03.737> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 17:55:03.737> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:55:03.737> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:55:03.737> Enabling portable mode.
+22-01-3918 17:55:03.737> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:55:03.737> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:55:03.740> Using keyboard language 0x04090409
+22-01-3918 17:55:05.644> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:55:05.664> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:56:09.387> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:56:09.396> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:56:14.416> You are using the latest available version of ??????????????????????.
+22-01-3918 17:56:25.960> Exit requested by the user.
+22-01-3918 17:56:25.963> Removing any active XMBCHook Timers...
+22-01-3918 17:56:25.964> Timer thread exited with error code 0.
+22-01-3918 17:56:25.978> CSendInput: Exiting SendInput thread.
+22-01-3918 17:56:25.978> HookThread: Finished cleaning up.
+22-01-3918 17:56:25.979> Hook thread exited with error code 0.
+22-01-3918 17:56:25.979> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 17:58:26.268> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 17:58:26.289> Running in high integrity mode (0x00003000)
+22-01-3918 17:58:26.290> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:58:26.290> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 17:58:26.290> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 17:58:26.290> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 17:58:26.290> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:58:26.290> Enabling portable mode.
+22-01-3918 17:58:26.290> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 17:58:26.291> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 17:58:26.292> Using keyboard language 0x04090409
+22-01-3918 17:58:31.493> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 17:58:31.507> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 17:59:58.858> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 17:59:58.869> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:00:01.039> Exit requested by the user.
+22-01-3918 18:00:01.042> Removing any active XMBCHook Timers...
+22-01-3918 18:00:01.042> Timer thread exited with error code 0.
+22-01-3918 18:00:01.057> CSendInput: Exiting SendInput thread.
+22-01-3918 18:00:01.058> HookThread: Finished cleaning up.
+22-01-3918 18:00:01.058> Hook thread exited with error code 0.
+22-01-3918 18:00:01.058> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 18:15:30.257> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 18:15:30.277> Running in high integrity mode (0x00003000)
+22-01-3918 18:15:30.278> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:15:30.278> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 18:15:30.278> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 18:15:30.278> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 18:15:30.278> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:15:30.278> Enabling portable mode.
+22-01-3918 18:15:30.278> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:15:30.278> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 18:15:30.280> Using keyboard language 0x04090409
+22-01-3918 18:15:31.429> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 18:15:31.444> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:16:08.548> Applying changes to ?????????????????????? settings...
+22-01-3918 18:16:08.552> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:16:08.552> UpdateSettings: System (default) Mouse cursor speed is: 10. Setting cursor speed to 20
+22-01-3918 18:16:17.661> Applying changes to ?????????????????????? settings...
+22-01-3918 18:16:17.667> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:16:17.667> UpdateSettings: System (default) Mouse cursor speed is: 10. Setting cursor speed to 10
+22-01-3918 18:16:18.458> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 18:16:18.464> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:16:23.086> Exit requested by the user.
+22-01-3918 18:16:23.090> Removing any active XMBCHook Timers...
+22-01-3918 18:16:23.091> Timer thread exited with error code 0.
+22-01-3918 18:16:23.105> CSendInput: Exiting SendInput thread.
+22-01-3918 18:16:23.106> HookThread: Finished cleaning up.
+22-01-3918 18:16:23.106> Hook thread exited with error code 0.
+22-01-3918 18:16:23.106> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 18:19:18.509> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 18:19:18.533> Running in high integrity mode (0x00003000)
+22-01-3918 18:19:18.534> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:19:18.534> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 18:19:18.534> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 18:19:18.534> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 18:19:18.534> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:19:18.534> Enabling portable mode.
+22-01-3918 18:19:18.534> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:19:18.534> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 18:19:18.536> Using keyboard language 0x04090409
+22-01-3918 18:19:22.445> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 18:19:22.459> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:19:33.373> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 18:19:33.380> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:19:35.968> Exit requested by the user.
+22-01-3918 18:19:35.971> Removing any active XMBCHook Timers...
+22-01-3918 18:19:35.971> Timer thread exited with error code 0.
+22-01-3918 18:19:35.985> CSendInput: Exiting SendInput thread.
+22-01-3918 18:19:35.986> HookThread: Finished cleaning up.
+22-01-3918 18:19:35.986> Hook thread exited with error code 0.
+22-01-3918 18:19:35.986> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+22-01-3918 18:20:22.028> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 18:20:22.064> Running in high integrity mode (0x00003000)
+22-01-3918 18:20:22.065> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:20:22.065> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 18:20:22.065> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 18:20:22.065> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 18:20:22.065> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:20:22.065> Enabling portable mode.
+22-01-3918 18:20:22.065> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:20:22.065> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 18:20:22.067> Using keyboard language 0x04090409
+22-01-3918 18:20:26.821> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 18:20:26.835> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:21:30.197> Applying changes to ?????????????????????? settings...
+22-01-3918 18:21:30.203> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:22:04.456> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 18:22:04.463> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:22:09.495> You are using the latest available version of ??????????????????????.
+
+*******************************************************************************************************************************************
+22-01-3918 18:22:37.942> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 18:22:37.974> Running in high integrity mode (0x00003000)
+22-01-3918 18:22:37.975> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:22:37.975> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 18:22:37.975> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 18:22:37.975> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 18:22:37.975> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:22:37.975> Enabling portable mode.
+22-01-3918 18:22:37.975> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:22:37.975> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 18:22:37.977> Using keyboard language 0x04090409
+
+*******************************************************************************************************************************************
+22-01-3918 18:23:23.231> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 18:23:23.264> Running in high integrity mode (0x00003000)
+22-01-3918 18:23:23.265> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:23:23.265> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 18:23:23.265> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 18:23:23.265> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 18:23:23.265> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:23:23.265> Enabling portable mode.
+22-01-3918 18:23:23.265> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:23:23.265> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 18:23:23.267> Using keyboard language 0x04090409
+
+*******************************************************************************************************************************************
+22-01-3918 18:25:32.145> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 18:25:32.169> Running in high integrity mode (0x00003000)
+22-01-3918 18:25:32.169> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:25:32.169> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 18:25:32.169> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 18:25:32.170> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 18:25:32.170> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:25:32.170> Enabling portable mode.
+22-01-3918 18:25:32.170> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:25:32.170> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 18:25:32.171> Using keyboard language 0x04090409
+
+*******************************************************************************************************************************************
+22-01-3918 18:27:00.966> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 18:27:01.016> Running in high integrity mode (0x00003000)
+22-01-3918 18:27:01.017> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:27:01.017> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 18:27:01.017> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 18:27:01.017> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 18:27:01.017> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:27:01.017> Enabling portable mode.
+22-01-3918 18:27:01.017> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:27:01.017> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 18:27:01.019> Using keyboard language 0x04090409
+
+*******************************************************************************************************************************************
+22-01-3918 18:27:43.740> ?????????????????????? v (x64) Startup. Commandline ''
+22-01-3918 18:27:43.763> Running in high integrity mode (0x00003000)
+22-01-3918 18:27:43.764> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:27:43.764> NewApplicationSettings: SPIThread is not initialised.
+22-01-3918 18:27:43.764> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 200 ms
+22-01-3918 18:27:43.764> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+22-01-3918 18:27:43.764> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:27:43.764> Enabling portable mode.
+22-01-3918 18:27:43.764> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+22-01-3918 18:27:43.764> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+22-01-3918 18:27:43.766> Using keyboard language 0x04090409
+22-01-3918 18:27:56.181> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+22-01-3918 18:27:56.197> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:28:09.517> Applying changes to ?????????????????????? settings...
+22-01-3918 18:28:09.524> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:28:25.094> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+22-01-3918 18:28:25.101> Loaded 0 application specific profiles (0 normal and 0 custom window).
+22-01-3918 18:28:27.831> Exit requested by the user.
+22-01-3918 18:28:27.840> Removing any active XMBCHook Timers...
+22-01-3918 18:28:27.840> Timer thread exited with error code 0.
+22-01-3918 18:28:27.852> CSendInput: Exiting SendInput thread.
+22-01-3918 18:28:27.853> HookThread: Finished cleaning up.
+22-01-3918 18:28:27.853> Hook thread exited with error code 0.
+22-01-3918 18:28:27.853> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+29-01-3918 12:59:32.443> ?????????????????????? v (x64) Startup. Commandline ''
+29-01-3918 12:59:32.461> Running in high integrity mode (0x00003000)
+29-01-3918 12:59:32.462> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 12:59:32.462> NewApplicationSettings: SPIThread is not initialised.
+29-01-3918 12:59:32.462> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 5000 ms
+29-01-3918 12:59:32.462> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 12:59:32.463> Enabling portable mode.
+29-01-3918 12:59:32.463> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 12:59:32.463> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+29-01-3918 12:59:32.464> Using keyboard language 0x04090409
+29-01-3918 12:59:38.126> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+29-01-3918 12:59:38.134> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:00:02.204> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+29-01-3918 13:00:02.211> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:00:05.360> Exit requested by the user.
+29-01-3918 13:00:05.365> Removing any active XMBCHook Timers...
+29-01-3918 13:00:05.366> Timer thread exited with error code 0.
+29-01-3918 13:00:05.382> CSendInput: Exiting SendInput thread.
+29-01-3918 13:00:05.383> HookThread: Finished cleaning up.
+29-01-3918 13:00:05.383> Hook thread exited with error code 0.
+29-01-3918 13:00:05.386> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+29-01-3918 13:01:49.336> ?????????????????????? v (x64) Startup. Commandline ''
+29-01-3918 13:01:49.367> Running in high integrity mode (0x00003000)
+29-01-3918 13:01:49.368> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:01:49.368> NewApplicationSettings: SPIThread is not initialised.
+29-01-3918 13:01:49.368> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 5000 ms
+29-01-3918 13:01:49.368> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:01:49.368> Enabling portable mode.
+29-01-3918 13:01:49.368> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:01:49.368> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+29-01-3918 13:01:49.370> Using keyboard language 0x04090409
+29-01-3918 13:01:51.430> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+29-01-3918 13:01:51.445> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:02:54.035> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+29-01-3918 13:02:54.043> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:02:56.425> Exit requested by the user.
+29-01-3918 13:02:56.430> Removing any active XMBCHook Timers...
+29-01-3918 13:02:56.430> Timer thread exited with error code 0.
+29-01-3918 13:02:56.446> CSendInput: Exiting SendInput thread.
+29-01-3918 13:02:56.447> HookThread: Finished cleaning up.
+29-01-3918 13:02:56.447> Hook thread exited with error code 0.
+29-01-3918 13:02:56.448> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+29-01-3918 13:09:18.498> ?????????????????????? v (x64) Startup. Commandline ''
+29-01-3918 13:09:18.514> Running in high integrity mode (0x00003000)
+29-01-3918 13:09:18.515> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:09:18.515> NewApplicationSettings: SPIThread is not initialised.
+29-01-3918 13:09:18.515> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 5000 ms
+29-01-3918 13:09:18.515> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:09:18.515> Enabling portable mode.
+29-01-3918 13:09:18.515> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:09:18.515> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+29-01-3918 13:09:18.517> Using keyboard language 0x04090409
+29-01-3918 13:09:19.807> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+29-01-3918 13:09:19.816> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:09:41.856> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+29-01-3918 13:09:41.863> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:09:43.265> Exit requested by the user.
+29-01-3918 13:09:43.279> Removing any active XMBCHook Timers...
+29-01-3918 13:09:43.280> Timer thread exited with error code 0.
+29-01-3918 13:09:43.294> CSendInput: Exiting SendInput thread.
+29-01-3918 13:09:43.295> HookThread: Finished cleaning up.
+29-01-3918 13:09:43.295> Hook thread exited with error code 0.
+29-01-3918 13:09:43.295> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+29-01-3918 13:17:50.493> ?????????????????????? v (x64) Startup. Commandline ''
+29-01-3918 13:17:50.508> Running in high integrity mode (0x00003000)
+29-01-3918 13:17:50.509> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:17:50.509> NewApplicationSettings: SPIThread is not initialised.
+29-01-3918 13:17:50.509> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 5000 ms
+29-01-3918 13:17:50.509> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:17:50.510> Enabling portable mode.
+29-01-3918 13:17:50.510> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:17:50.510> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+29-01-3918 13:17:50.511> Using keyboard language 0x04090409
+29-01-3918 13:17:51.910> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+29-01-3918 13:17:51.918> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:18:36.131> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+29-01-3918 13:18:36.140> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:18:38.721> Exit requested by the user.
+29-01-3918 13:18:38.725> Removing any active XMBCHook Timers...
+29-01-3918 13:18:38.726> Timer thread exited with error code 0.
+29-01-3918 13:18:38.741> CSendInput: Exiting SendInput thread.
+29-01-3918 13:18:38.742> HookThread: Finished cleaning up.
+29-01-3918 13:18:38.742> Hook thread exited with error code 0.
+29-01-3918 13:18:38.742> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+29-01-3918 13:20:05.784> ?????????????????????? v (x64) Startup. Commandline ''
+29-01-3918 13:20:05.823> Running in high integrity mode (0x00003000)
+29-01-3918 13:20:05.824> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:20:05.824> NewApplicationSettings: SPIThread is not initialised.
+29-01-3918 13:20:05.824> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 5000 ms
+29-01-3918 13:20:05.824> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:20:05.824> Enabling portable mode.
+29-01-3918 13:20:05.824> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:20:05.824> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+29-01-3918 13:20:05.826> Using keyboard language 0x04090409
+29-01-3918 13:20:07.367> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+29-01-3918 13:20:07.381> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:20:21.057> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+29-01-3918 13:20:21.064> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:20:23.233> Exit requested by the user.
+29-01-3918 13:20:23.236> Removing any active XMBCHook Timers...
+29-01-3918 13:20:23.236> Timer thread exited with error code 0.
+29-01-3918 13:20:23.251> CSendInput: Exiting SendInput thread.
+29-01-3918 13:20:23.252> HookThread: Finished cleaning up.
+29-01-3918 13:20:23.252> Hook thread exited with error code 0.
+29-01-3918 13:20:23.252> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+29-01-3918 13:20:42.756> ?????????????????????? v (x64) Startup. Commandline ''
+29-01-3918 13:20:42.818> Running in high integrity mode (0x00003000)
+29-01-3918 13:20:42.819> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:20:42.819> NewApplicationSettings: SPIThread is not initialised.
+29-01-3918 13:20:42.819> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 5000 ms
+29-01-3918 13:20:42.819> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:20:42.819> Enabling portable mode.
+29-01-3918 13:20:42.819> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:20:42.819> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+29-01-3918 13:20:42.821> Using keyboard language 0x04090409
+29-01-3918 13:20:44.190> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+29-01-3918 13:20:44.205> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:20:52.389> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+29-01-3918 13:20:52.398> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:20:54.641> Exit requested by the user.
+29-01-3918 13:20:54.647> Removing any active XMBCHook Timers...
+29-01-3918 13:20:54.647> Timer thread exited with error code 0.
+29-01-3918 13:20:54.664> CSendInput: Exiting SendInput thread.
+29-01-3918 13:20:54.665> HookThread: Finished cleaning up.
+29-01-3918 13:20:54.665> Hook thread exited with error code 0.
+29-01-3918 13:20:54.665> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+29-01-3918 13:21:34.871> ?????????????????????? v (x64) Startup. Commandline ''
+29-01-3918 13:21:34.895> Running in high integrity mode (0x00003000)
+29-01-3918 13:21:34.896> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:21:34.896> NewApplicationSettings: SPIThread is not initialised.
+29-01-3918 13:21:34.896> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 5000 ms
+29-01-3918 13:21:34.896> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:21:34.896> Enabling portable mode.
+29-01-3918 13:21:34.896> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:21:34.896> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+29-01-3918 13:21:34.898> Using keyboard language 0x04090409
+29-01-3918 13:21:39.934> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+29-01-3918 13:21:39.949> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:21:52.649> Exit requested by the user.
+29-01-3918 13:21:52.689> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+29-01-3918 13:21:52.692> Removing any active XMBCHook Timers...
+29-01-3918 13:21:52.692> Timer thread exited with error code 0.
+29-01-3918 13:21:52.699> CSendInput: Exiting SendInput thread.
+29-01-3918 13:21:52.699> HookThread: Finished cleaning up.
+29-01-3918 13:21:52.700> Hook thread exited with error code 0.
+29-01-3918 13:21:52.707> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+29-01-3918 13:22:39.959> ?????????????????????? v (x64) Startup. Commandline ''
+29-01-3918 13:22:39.975> Running in high integrity mode (0x00003000)
+29-01-3918 13:22:39.976> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:22:39.976> NewApplicationSettings: SPIThread is not initialised.
+29-01-3918 13:22:39.976> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 5000 ms
+29-01-3918 13:22:39.977> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:22:39.977> Enabling portable mode.
+29-01-3918 13:22:39.977> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:22:39.977> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+29-01-3918 13:22:39.979> Using keyboard language 0x04090409
+29-01-3918 13:22:41.367> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+29-01-3918 13:22:41.381> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:22:47.083> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+29-01-3918 13:22:47.091> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:22:49.407> Exit requested by the user.
+29-01-3918 13:22:49.410> Removing any active XMBCHook Timers...
+29-01-3918 13:22:49.410> Timer thread exited with error code 0.
+29-01-3918 13:22:49.417> CSendInput: Exiting SendInput thread.
+29-01-3918 13:22:49.417> HookThread: Finished cleaning up.
+29-01-3918 13:22:49.418> Hook thread exited with error code 0.
+29-01-3918 13:22:49.418> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+29-01-3918 13:24:15.010> ?????????????????????? v (x64) Startup. Commandline ''
+29-01-3918 13:24:15.040> Running in high integrity mode (0x00003000)
+29-01-3918 13:24:15.041> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:24:15.041> NewApplicationSettings: SPIThread is not initialised.
+29-01-3918 13:24:15.041> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 5000 ms
+29-01-3918 13:24:15.041> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:24:15.041> Enabling portable mode.
+29-01-3918 13:24:15.041> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:24:15.041> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+29-01-3918 13:24:15.043> Using keyboard language 0x04090409
+29-01-3918 13:24:16.606> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+29-01-3918 13:24:16.621> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:24:50.097> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+29-01-3918 13:24:50.105> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:24:55.123> You are using the latest available version of ??????????????????????.
+29-01-3918 13:24:58.992> Exit requested by the user.
+29-01-3918 13:24:59.004> Removing any active XMBCHook Timers...
+29-01-3918 13:24:59.005> Timer thread exited with error code 0.
+29-01-3918 13:24:59.020> CSendInput: Exiting SendInput thread.
+29-01-3918 13:24:59.020> HookThread: Finished cleaning up.
+29-01-3918 13:24:59.020> Hook thread exited with error code 0.
+29-01-3918 13:24:59.021> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+29-01-3918 13:26:00.288> ?????????????????????? v (x64) Startup. Commandline ''
+29-01-3918 13:26:00.320> Running in high integrity mode (0x00003000)
+29-01-3918 13:26:00.321> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:26:00.321> NewApplicationSettings: SPIThread is not initialised.
+29-01-3918 13:26:00.322> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 5000 ms
+29-01-3918 13:26:00.322> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:26:00.322> Enabling portable mode.
+29-01-3918 13:26:00.322> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:26:00.322> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+29-01-3918 13:26:00.324> Using keyboard language 0x04090409
+29-01-3918 13:26:04.294> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+29-01-3918 13:26:04.309> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:26:45.454> Applying changes to ?????????????????????? settings...
+29-01-3918 13:26:45.462> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:26:45.487> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+29-01-3918 13:26:45.493> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:26:50.516> You are using the latest available version of ??????????????????????.
+
+*******************************************************************************************************************************************
+29-01-3918 13:27:44.251> ?????????????????????? v (x64) Startup. Commandline ''
+29-01-3918 13:27:44.290> Running in high integrity mode (0x00003000)
+29-01-3918 13:27:44.290> Unable to find the default settings file 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml' (Error code 2: The system cannot find the file specified. )
+29-01-3918 13:27:44.291> HookDLL: Unable to load XML settings
+29-01-3918 13:27:44.291> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 5000 ms
+29-01-3918 13:27:44.291> Startup folder: 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:27:44.291> Enabling portable mode.
+29-01-3918 13:27:44.291> Creating/using settings file in 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+29-01-3918 13:27:44.291> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+29-01-3918 13:27:44.292> Using keyboard language 0x04090409
+29-01-3918 13:27:46.286> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+29-01-3918 13:27:46.293> Unable to find the default settings file 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml' (Error code 2: The system cannot find the file specified. )
+29-01-3918 13:27:46.293> SetupDialog: Settings file 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml' does not exist!
+29-01-3918 13:27:46.615> GetLayerName: Layer 0 does not exist or has no name!
+29-01-3918 13:27:46.615> GetLayerName: Layer 0 does not exist or has no name!
+29-01-3918 13:27:46.615> GetLayerName: Layer 0 does not exist or has no name!
+29-01-3918 13:27:46.615> GetLayerName: Layer 0 does not exist or has no name!
+29-01-3918 13:27:46.621> GetLayerName: Layer 1 does not exist or has no name!
+29-01-3918 13:27:46.621> GetLayerName: Layer 1 does not exist or has no name!
+29-01-3918 13:27:46.621> GetLayerName: Layer 1 does not exist or has no name!
+29-01-3918 13:27:46.621> GetLayerName: Layer 1 does not exist or has no name!
+29-01-3918 13:27:46.627> GetLayerName: Layer 2 does not exist or has no name!
+29-01-3918 13:27:46.627> GetLayerName: Layer 2 does not exist or has no name!
+29-01-3918 13:27:46.627> GetLayerName: Layer 2 does not exist or has no name!
+29-01-3918 13:27:46.627> GetLayerName: Layer 2 does not exist or has no name!
+29-01-3918 13:27:46.633> GetLayerName: Layer 3 does not exist or has no name!
+29-01-3918 13:27:46.633> GetLayerName: Layer 3 does not exist or has no name!
+29-01-3918 13:27:46.633> GetLayerName: Layer 3 does not exist or has no name!
+29-01-3918 13:27:46.633> GetLayerName: Layer 3 does not exist or has no name!
+29-01-3918 13:27:46.639> GetLayerName: Layer 4 does not exist or has no name!
+29-01-3918 13:27:46.640> GetLayerName: Layer 4 does not exist or has no name!
+29-01-3918 13:27:46.640> GetLayerName: Layer 4 does not exist or has no name!
+29-01-3918 13:27:46.640> GetLayerName: Layer 4 does not exist or has no name!
+29-01-3918 13:27:46.644> GetLayerName: Layer 5 does not exist or has no name!
+29-01-3918 13:27:46.644> GetLayerName: Layer 5 does not exist or has no name!
+29-01-3918 13:27:46.644> GetLayerName: Layer 5 does not exist or has no name!
+29-01-3918 13:27:46.644> GetLayerName: Layer 5 does not exist or has no name!
+29-01-3918 13:27:46.651> GetLayerName: Layer 6 does not exist or has no name!
+29-01-3918 13:27:46.651> GetLayerName: Layer 6 does not exist or has no name!
+29-01-3918 13:27:46.651> GetLayerName: Layer 6 does not exist or has no name!
+29-01-3918 13:27:46.651> GetLayerName: Layer 6 does not exist or has no name!
+29-01-3918 13:27:46.657> GetLayerName: Layer 7 does not exist or has no name!
+29-01-3918 13:27:46.657> GetLayerName: Layer 7 does not exist or has no name!
+29-01-3918 13:27:46.657> GetLayerName: Layer 7 does not exist or has no name!
+29-01-3918 13:27:46.657> GetLayerName: Layer 7 does not exist or has no name!
+29-01-3918 13:27:46.663> GetLayerName: Layer 8 does not exist or has no name!
+29-01-3918 13:27:46.663> GetLayerName: Layer 8 does not exist or has no name!
+29-01-3918 13:27:46.663> GetLayerName: Layer 8 does not exist or has no name!
+29-01-3918 13:27:46.663> GetLayerName: Layer 8 does not exist or has no name!
+29-01-3918 13:27:46.668> GetLayerName: Layer 9 does not exist or has no name!
+29-01-3918 13:27:46.668> GetLayerName: Layer 9 does not exist or has no name!
+29-01-3918 13:27:46.668> GetLayerName: Layer 9 does not exist or has no name!
+29-01-3918 13:27:46.668> GetLayerName: Layer 9 does not exist or has no name!
+29-01-3918 13:27:50.125> Applying changes to ?????????????????????? settings...
+29-01-3918 13:27:50.126> Unable to find the default settings file 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml' (Error code 2: The system cannot find the file specified. )
+29-01-3918 13:27:50.126> SetupDialog: Settings file 'C:\Users\Administrator.KKDV2-20170917X\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml' does not exist!
+29-01-3918 13:27:50.126> Updating Windows hook timeout: 200
+29-01-3918 13:27:50.126> There is no existing settings file. Attempting to creating a new one.
+29-01-3918 13:27:50.129> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:27:50.157> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+29-01-3918 13:27:50.164> Loaded 0 application specific profiles (0 normal and 0 custom window).
+29-01-3918 13:27:53.256> Exit requested by the user.
+29-01-3918 13:27:53.259> Removing any active XMBCHook Timers...
+29-01-3918 13:27:53.259> Timer thread exited with error code 0.
+29-01-3918 13:27:53.274> CSendInput: Exiting SendInput thread.
+29-01-3918 13:27:53.275> HookThread: Finished cleaning up.
+29-01-3918 13:27:53.275> Hook thread exited with error code 0.
+29-01-3918 13:27:53.275> ?????????????????????? Shutdown.
+
+
+*******************************************************************************************************************************************
+13-06-3918 17:23:49.733> ?????????????????????? v (x64) Startup. Commandline ''
+13-06-3918 17:23:49.756> Running in high integrity mode (0x00003000)
+13-06-3918 17:23:49.757> Loaded 0 application specific profiles (0 normal and 0 custom window).
+13-06-3918 17:23:49.757> NewApplicationSettings: SPIThread is not initialised.
+13-06-3918 17:23:49.757> Running on Microsoft Windows 7 Ultimate Edition Service Pack 1 (build 7601), 64-bit, Hook Timeout: 0 ms
+13-06-3918 17:23:49.757> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+13-06-3918 17:23:49.757> Startup folder: 'C:\Users\Administrator\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+13-06-3918 17:23:49.757> Enabling portable mode.
+13-06-3918 17:23:49.757> Creating/using settings file in 'C:\Users\Administrator\Desktop\¨Ñ´·Óâ´Â àÍ¡ÍÔÍÔ\XMBCSettings.xml'
+13-06-3918 17:23:49.757> As ?????????????????????? is not running from an OS protected location (such as 'C:\Program Files') some features will not work. See the FAQ for more information.
+13-06-3918 17:23:49.777> Using keyboard language 0x04090409
+13-06-3918 17:23:56.893> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+13-06-3918 17:23:56.900> Loaded 0 application specific profiles (0 normal and 0 custom window).
+13-06-3918 17:24:12.955> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+13-06-3918 17:24:12.961> Loaded 0 application specific profiles (0 normal and 0 custom window).
+13-06-3918 17:24:17.980> You are using the latest available version of ??????????????????????.
+13-06-3918 17:24:36.470> Exit requested by the user.
+13-06-3918 17:24:36.473> Removing any active XMBCHook Timers...
+13-06-3918 17:24:36.473> Timer thread exited with error code 0.
+13-06-3918 17:24:36.479> CSendInput: Exiting SendInput thread.
+13-06-3918 17:24:36.480> HookThread: Finished cleaning up.
+13-06-3918 17:24:36.480> Hook thread exited with error code 0.
+13-06-3918 17:24:36.480> ?????????????????????? Shutdown.
+
